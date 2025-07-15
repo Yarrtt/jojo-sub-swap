@@ -1,0 +1,21 @@
+{
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "yarrtt@jjbasubswap.org"
+    }},
+  "name": "JoJo Sub-Swap",
+  "description": "Changes any localized stand names from netflix subtitles while watching JoJo's Bizarre Adventure Part 4, 5 or 6 to the original versions e.g. \"Stone Ocean\" in subtitles will be changed to \"Stone Free\"",
+  "version": "1.2",
+  "manifest_version": 3,
+  "icons": {
+  "500": "icon.png"
+  },
+  "content_scripts": [
+    {
+        "js": ["BIG_JOJO_SUPREMACY.js"],
+        "matches": ["https://*.netflix.com/*"],
+        "all_frames": true
+      
+    }
+  ]
+}
