@@ -10,5 +10,5 @@ Go to latest release: [Latest](https://github.com/Yarrtt/jojo-sub-swap/releases/
 Download the jojo-sub-swap-ffx.zip<br/>
 Open Chrome and turn on developer mode in the top right of the extensions page (Chrome://extensions)<br/>
 Click "load unpacked" and select the zip<br/>
->If there's demand I'll upload it to the chrome web store<br/
+>If there's demand I'll upload it to the chrome web store
 
