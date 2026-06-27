@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="en">
+<head>
+<metadata nttm:movieID="81031077" nttm:packageID="1502406" nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="51b1bbc3-8b6a-41e5-b914-a533e611631b"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:fontSize="6.000rh" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style1" tts:fontWeight="normal"/>
+<style xml:id="style2" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="103853750t" end="130130000t" region="region0"><span style="style1">test</span></p>
+<p xml:id="subtitle2" begin="130964167t" end="150567084t" region="region0"><span style="style1">That's what they all say.</span></p>
+<p xml:id="subtitle3" begin="151401250t" end="173089584t" region="region0"><span style="style1">How about I throw in a tour of the city?</span></p>
+<p xml:id="subtitle4" begin="173923750t" end="183516667t" region="region0"><span style="style1">Seriously?</span></p>
+<p xml:id="subtitle5" begin="184350834t" end="198948750t" region="region0"><span style="style1">That sounds like so much fun!</span></p>
+<p xml:id="subtitle6" begin="207707500t" end="222305417t" region="region0"><span style="style1">-Where is it?</span><br/><span style="style1">-What's wrong?</span></p>
+<p xml:id="subtitle7" begin="223139584t" end="236069167t" region="region0"><span style="style1">My bag is missing!</span></p>
+<p xml:id="subtitle8" begin="243993750t" end="257757500t" region="region0"><span style="style1">Please take this.</span></p>
+<p xml:id="subtitle9" begin="258591667t" end="286119167t" region="region0"><span style="style1">So has anything unusual taken place?</span></p>
+<p xml:id="subtitle10" begin="286953334t" end="311144167t" region="region0"><span style="style1">Nothing at all, thanks to you.</span></p>
+<p xml:id="subtitle11" begin="311978334t" end="321571250t" region="region0"><span style="style1">I see.</span></p>
+<p xml:id="subtitle12" begin="322405417t" end="335335000t" region="region0"><span style="style1">Thanks for your time.</span></p>
+<p xml:id="subtitle13" begin="357023334t" end="375375000t" region="region0"><span style="style1">This is what you wanted, right?</span></p>
+<p xml:id="subtitle14" begin="376209167t" end="386219167t" region="region0"><span style="style1">That's it.</span></p>
+<p xml:id="subtitle15" begin="391224167t" end="424173750t" region="region0"><span style="style1">But this is all I have on me.</span></p>
+<p xml:id="subtitle16" begin="425007917t" end="448781667t" region="region0"><span style="style1">Then this is all I can sell you.</span></p>
+<p xml:id="subtitle17" begin="554303750t" end="584333750t" region="region0"><span style="style2">Naples, a city in Southern Italy,</span></p>
+<p xml:id="subtitle18" begin="585167917t" end="609358750t" region="region0"><span style="style2">is a famous tourist destination</span></p>
+<p xml:id="subtitle19" begin="610192917t" end="644393750t" region="region0"><span style="style2">so picturesque that people say,</span><br/><span style="style2">"See Naples and die."</span></p>
+<p xml:id="subtitle20" begin="651901250t" end="668584584t" region="region0"><span style="style1">-Excuse me.</span><br/><span style="style1">-Excuse me.</span></p>
+<p xml:id="subtitle21" begin="674006667t" end="699448750t" region="region0"><span style="style1">Could you tell us how to get</span><br/><span style="style1">to Basilica di Santa Chiara?</span></p>
+<p xml:id="subtitle22" begin="700282917t" end="710292917t" region="region0"><span style="style1">Sure.</span></p>
+<p xml:id="subtitle23" begin="711127084t" end="739071667t" region="region0"><span style="style1">To get to the basilica,</span><br/><span style="style1">go straight from here.</span></p>
+<p xml:id="subtitle24" begin="739905834t" end="764930834t" region="region0"><span style="style1">-At the first signal--</span><br/><span style="style1">-It's just as I thought!</span></p>
+<p xml:id="subtitle25" begin="765765000t" end="780362917t" region="region0"><span style="style1">I told you it was that way!</span></p>
+<p xml:id="subtitle26" begin="781197084t" end="803302500t" region="region0"><span style="style1">Okay, I'm sorry. Thank you very much--</span></p>
+<p xml:id="subtitle27" begin="809975834t" end="831664167t" region="region0"><span style="style1">Oops. Are you all right?</span></p>
+<p xml:id="subtitle28" begin="832498334t" end="852518334t" region="region0"><span style="style1">Thank you very much.</span></p>
+<p xml:id="subtitle29" begin="858774584t" end="873789584t" region="region0"><span style="style1">I'm sorry.</span></p>
+<p xml:id="subtitle30" begin="874623750t" end="896312084t" region="region0"><span style="style1">Sheesh. Watch where you're going.</span></p>
+<p xml:id="subtitle31" begin="962628334t" end="972221250t" region="region0"><span style="style1">Let's go.</span></p>
+<p xml:id="subtitle32" begin="973055417t" end="996829167t" region="region0"><span style="style1">Pardon me, but you dropped this.</span></p>
+<p xml:id="subtitle33" begin="1025190834t" end="1038120417t" region="region0"><span style="style1">Thank you!</span></p>
+<p xml:id="subtitle34" begin="1044376667t" end="1052718334t" region="region0"><span style="style1">It was nothing.</span></p>
+<p xml:id="subtitle35" begin="1058974584t" end="1081914167t" region="region0"><span style="style1">Hey, wasn't that guy so hot?</span></p>
+<p xml:id="subtitle36" begin="1082748334t" end="1102351250t" region="region0"><span style="style1">We should have taken a picture.</span></p>
+<p xml:id="subtitle37" begin="1112778334t" end="1140722917t" region="region0"><span style="style1">Did those just come from my purse?</span></p>
+<p xml:id="subtitle38" begin="1141557084t" end="1166582084t" region="region0"><span style="style1">Probably just landed on you now.</span></p>
+<p xml:id="subtitle39" begin="1167416250t" end="1182431250t" region="region0"><span style="style1">Yeah, you're right.</span></p>
+<p xml:id="subtitle40" begin="1251250000t" end="1280862917t" region="region0"><span style="style1">In this town,</span><br/><span style="style1">you can't let your guard down.</span></p>
+<p xml:id="subtitle41" begin="1307973334t" end="1316315000t" region="region0"><span style="style1">Excuse me,</span></p>
+<p xml:id="subtitle42" begin="1322154167t" end="1352601250t" region="region0"><span style="style1">I'll take a cone</span><br/><span style="style1">with chocolate and pistachio, please.</span></p>
+<p xml:id="subtitle43" begin="1382214167t" end="1400982917t" region="region0"><span style="style1">-Make that two cones.</span><br/><span style="style1">-You got it.</span></p>
+<p xml:id="subtitle44" begin="1583665417t" end="1601182917t" region="region1"><span style="style1">EPISODE 1: GOLDEN WIND</span></p>
+<p xml:id="subtitle45" begin="1602017084t" end="1634549584t" region="region1"><span style="style1">I've told you time after time.</span><br/><span style="style1">No license, no working here.</span></p>
+<p xml:id="subtitle46" begin="1635383750t" end="1654152500t" region="region1"><span style="style1">Get moving.</span></p>
+<p xml:id="subtitle47" begin="1654986667t" end="1664162500t" region="region0"><span style="style1">Geez.</span></p>
+<p xml:id="subtitle48" begin="1664996667t" end="1678343334t" region="region0"><span style="style1">Now then, one vehicle here…</span></p>
+<p xml:id="subtitle49" begin="1679177500t" end="1708373334t" region="region0"><span style="style1">What do you say?</span><br/><span style="style1">It'll be faster than lining up.</span></p>
+<p xml:id="subtitle50" begin="1709207500t" end="1720468750t" region="region0"><span style="style1">What should we do?</span></p>
+<p xml:id="subtitle51" begin="1730061667t" end="1747996250t" region="region0"><span style="style1">I'll get you into the city real cheap.</span></p>
+<p xml:id="subtitle52" begin="1748830417t" end="1768433334t" region="region0"><span style="style1">Is that so? How cheap?</span></p>
+<p xml:id="subtitle53" begin="1805136667t" end="1823071250t" region="region0"><span style="style1">Luca.</span></p>
+<p xml:id="subtitle54" begin="1854352500t" end="1904402500t" region="region0"><span style="style1">I made it clear that you could do business</span><br/><span style="style1">only after paying the protection fees.</span></p>
+<p xml:id="subtitle55" begin="1905236667t" end="1921502917t" region="region0"><span style="style1">Please spare me.</span></p>
+<p xml:id="subtitle56" begin="1922337084t" end="1959874584t" region="region0"><span style="style1">I told you to pay me first, didn't I?</span></p>
+<p xml:id="subtitle57" begin="1960708750t" end="1977392084t" region="region0"><span style="style1">-But--</span><br/><span style="style1">-I told you, didn't I?</span></p>
+<p xml:id="subtitle58" begin="1978226250t" end="1992407084t" region="region0"><span style="style1">I have a family…</span></p>
+<p xml:id="subtitle59" begin="2075406667t" end="2094592500t" region="region0"><span style="style1">Please, don't!</span></p>
+<p xml:id="subtitle60" begin="2095426667t" end="2140471667t" region="region0"><span style="style1">You should be cherishing my friendship</span><br/><span style="style1">more than your family. Right?</span></p>
+<p xml:id="subtitle61" begin="2141305834t" end="2178426250t" region="region0"><span style="style1">I'm not the only one working</span><br/><span style="style1">behind your back!</span></p>
+<p xml:id="subtitle62" begin="2198863334t" end="2207622084t" region="region0"><span style="style1">Who else?</span></p>
+<p xml:id="subtitle63" begin="2221385834t" end="2235149584t" region="region0"><span style="style1">Tell me who else.</span></p>
+<p xml:id="subtitle64" begin="2242657084t" end="2267682084t" region="region0"><span style="style1">Giorno. Giorno Giovanna.</span></p>
+<p xml:id="subtitle65" begin="2273521250t" end="2282697084t" region="region0"><span style="style1">Giorno?</span></p>
+<p xml:id="subtitle66" begin="2283531250t" end="2313561250t" region="region0"><span style="style1">That kid seems to be making</span><br/><span style="style1">loads of money lately.</span></p>
+<p xml:id="subtitle67" begin="2333164167t" end="2343174167t" region="region0"><span style="style1">Giorno.</span></p>
+<p xml:id="subtitle68" begin="2359857500t" end="2384882500t" region="region0"><span style="style1">Well, that's something else.</span></p>
+<p xml:id="subtitle69" begin="2416580834t" end="2459957500t" region="region0"><span style="style1">If you don't have a license,</span><br/><span style="style1">you can't work here.</span></p>
+<p xml:id="subtitle70" begin="2460791667t" end="2470801667t" region="region0"><span style="style1">Go elsewhere.</span></p>
+<p xml:id="subtitle71" begin="2471635834t" end="2489987500t" region="region0"><span style="style2">Buongiorno.</span></p>
+<p xml:id="subtitle72" begin="2517932084t" end="2537117917t" region="region0"><span style="style1">I finally made it!</span></p>
+<p xml:id="subtitle73" begin="2552550000t" end="2571735834t" region="region0"><span style="style1">What a long flight.</span></p>
+<p xml:id="subtitle74" begin="2582580000t" end="2608022084t" region="region0"><span style="style1">It's nothing like Japan here.</span></p>
+<p xml:id="subtitle75" begin="2608856250t" end="2631378750t" region="region0"><span style="style1">Now then. Time to get to work.</span></p>
+<p xml:id="subtitle76" begin="2637217917t" end="2671001667t" region="region0"><span style="style1">Haruno Shiobana. That's an unusual name.</span></p>
+<p xml:id="subtitle77" begin="2676840834t" end="2720217500t" region="region0"><span style="style1">I suppose I'll go to the hotel first</span><br/><span style="style1">to put my suitcase down and relax.</span></p>
+<p xml:id="subtitle78" begin="2731895834t" end="2754835417t" region="region0"><span style="style1">Now where can I get a taxi…</span></p>
+<p xml:id="subtitle79" begin="2755669584t" end="2774021250t" region="region0"><span style="style1">That's amazing!</span></p>
+<p xml:id="subtitle80" begin="2774855417t" end="2800714584t" region="region0"><span style="style1">Ain't it? Such a cool trick!</span></p>
+<p xml:id="subtitle81" begin="2806553750t" end="2823237084t" region="region0"><span style="style1">That shouldn't be possible.</span></p>
+<p xml:id="subtitle82" begin="2824071250t" end="2854518334t" region="region0"><span style="style1">How does he do that?</span></p>
+<p xml:id="subtitle83" begin="2859523334t" end="2875789584t" region="region0"><span style="style1">Yikes, that's freaky.</span></p>
+<p xml:id="subtitle84" begin="2881628750t" end="2912492917t" region="region0"><span style="style1">How can he stuff his whole ear in there?</span></p>
+<p xml:id="subtitle85" begin="2913327084t" end="2940437500t" region="region0"><span style="style1">That sure was entertaining.</span></p>
+<p xml:id="subtitle86" begin="2941271667t" end="2950447500t" region="region0"><span style="style1">Thanks.</span></p>
+<p xml:id="subtitle87" begin="2977557917t" end="3013010000t" region="region0"><span style="style1">Be sure to stay out of trouble</span><br/><span style="style1">when you're working.</span></p>
+<p xml:id="subtitle88" begin="3030944584t" end="3039286250t" region="region0"><span style="style1">Need a taxi?</span></p>
+<p xml:id="subtitle89" begin="3040120417t" end="3067647917t" region="region0"><span style="style1">-No, I don't…</span><br/><span style="style1">-Taxi.</span></p>
+<p xml:id="subtitle90" begin="3068482084t" end="3103934167t" region="region0"><span style="style1">I'm done with my part-time gig for the day</span><br/><span style="style1">so I'll drive you for cheap.</span></p>
+<p xml:id="subtitle91" begin="3104768334t" end="3130627500t" region="region0"><span style="style1">How about 180,000 lire into the city?</span></p>
+<p xml:id="subtitle92" begin="3131461667t" end="3157737917t" region="region0"><span style="style1">How much is 180,000 lire?</span></p>
+<p xml:id="subtitle93" begin="3158572084t" end="3171501667t" region="region0"><span style="style1">About 10,000 yen?</span></p>
+<p xml:id="subtitle94" begin="3172335834t" end="3184431250t" region="region0"><span style="style1">That's so expensive!</span></p>
+<p xml:id="subtitle95" begin="3185265417t" end="3203200000t" region="region0"><span style="style1">Market price is only half of that.</span></p>
+<p xml:id="subtitle96" begin="3204034167t" end="3238652084t" region="region0"><span style="style1">Wow. Your Italian is very fluent.</span></p>
+<p xml:id="subtitle97" begin="3246159584t" end="3263260000t" region="region0"><span style="style1">Have you lived in Italy before?</span></p>
+<p xml:id="subtitle98" begin="3264094167t" end="3294124167t" region="region0"><span style="style1">No. It's just that Master Rohan</span><br/><span style="style1">said I needed to learn…</span></p>
+<p xml:id="subtitle99" begin="3294958334t" end="3312475834t" region="region0"><span style="style1">Never mind.</span></p>
+<p xml:id="subtitle100" begin="3313310000t" end="3338335000t" region="region0"><span style="style1">More importantly, you're going to drive?</span></p>
+<p xml:id="subtitle101" begin="3339169167t" end="3373787084t" region="region0"><span style="style1">You look like</span><br/><span style="style1">you're still in middle or high school.</span></p>
+<p xml:id="subtitle102" begin="3374621250t" end="3394641250t" region="region0"><span style="style1">Plus, I saw you</span><br/><span style="style1">hand something to security.</span></p>
+<p xml:id="subtitle103" begin="3395475417t" end="3419666250t" region="region0"><span style="style1">I could see a bit of money.</span><br/><span style="style1">What was that about?</span></p>
+<p xml:id="subtitle104" begin="3420500417t" end="3445525417t" region="region0"><span style="style1">Please, there's nothing</span><br/><span style="style1">to be concerned about.</span></p>
+<p xml:id="subtitle105" begin="3446359584t" end="3467213750t" region="region0"><span style="style1">In that case, 10,000 lire is fine.</span></p>
+<p xml:id="subtitle106" begin="3468047917t" end="3495992500t" region="region0"><span style="style1">No tip either.</span><br/><span style="style1">The 10,000 lire will get you to town.</span></p>
+<p xml:id="subtitle107" begin="3505585417t" end="3523102917t" region="region0"><span style="style1">That's about</span></p>
+<p xml:id="subtitle108" begin="3523937084t" end="3533530000t" region="region0"><span style="style1">five hundred yen?</span></p>
+<p xml:id="subtitle109" begin="3539369167t" end="3555218334t" region="region0"><span style="style1">I mean, no thanks.</span></p>
+<p xml:id="subtitle110" begin="3556052500t" end="3578157917t" region="region0"><span style="style1">I'll just wait for a taxi.</span></p>
+<p xml:id="subtitle111" begin="3599846250t" end="3609856250t" region="region0"><span style="style1">How about it?</span></p>
+<p xml:id="subtitle112" begin="3627373750t" end="3643222917t" region="region0"><span style="style1">Only 10,000 lire, right?</span></p>
+<p xml:id="subtitle113" begin="3644057084t" end="3677006667t" region="region0"><span style="style1">That's all. In exchange,</span><br/><span style="style1">you'll have to carry your own luggage</span></p>
+<p xml:id="subtitle114" begin="3683680000t" end="3700363334t" region="region0"><span style="style1">since there's no tip either.</span></p>
+<p xml:id="subtitle115" begin="3718715000t" end="3752498750t" region="region0"><span style="style1">You can place your luggage in the front.</span><br/><span style="style1">Please sit in the back.</span></p>
+<p xml:id="subtitle116" begin="3767930834t" end="3784197084t" region="region0"><span style="style1">I'm warning you,</span></p>
+<p xml:id="subtitle117" begin="3785031250t" end="3826322500t" region="region0"><span style="style1">I may look like a naive Japanese tourist,</span><br/><span style="style1">but you shouldn't underestimate me.</span></p>
+<p xml:id="subtitle118" begin="3827156667t" end="3856352500t" region="region0"><span style="style1">You'd better keep your word</span><br/><span style="style1">and go to the hotel.</span></p>
+<p xml:id="subtitle119" begin="3862608750t" end="3888050834t" region="region0"><span style="style1">Of course. I promise to go to your hotel.</span></p>
+<p xml:id="subtitle120" begin="3903900000t" end="3932678750t" region="region0"><span style="style1">But only your bag will make it there.</span></p>
+<p xml:id="subtitle121" begin="3957703750t" end="3972718750t" region="region0"><span style="style1">What? Wait…</span></p>
+<p xml:id="subtitle122" begin="3973552917t" end="3991904584t" region="region0"><span style="style1">I haven't gotten in the car yet.</span></p>
+<p xml:id="subtitle123" begin="3997743750t" end="4010256250t" region="region0"><span style="style1">He has no idea…</span></p>
+<p xml:id="subtitle124" begin="4016512500t" end="4025271250t" region="region0"><span style="style1">It can't be!</span></p>
+<p xml:id="subtitle125" begin="4026105417t" end="4035281250t" region="region0"><span style="style1">Wait!</span></p>
+<p xml:id="subtitle126" begin="4042371667t" end="4050713334t" region="region0"><span style="style2">Ciao.</span></p>
+<p xml:id="subtitle127" begin="4057386667t" end="4071567500t" region="region0"><span style="style1">Echoes ACT3!</span></p>
+<p xml:id="subtitle128" begin="4166662500t" end="4181260417t" region="region0"><span style="style1">It's unfortunate for you.</span></p>
+<p xml:id="subtitle129" begin="4197109584t" end="4222551667t" region="region0"><span style="style1">I warned you not to underestimate me.</span></p>
+<p xml:id="subtitle130" begin="4232561667t" end="4250496250t" region="region0"><span style="style1">You can leave if you want.</span></p>
+<p xml:id="subtitle131" begin="4251330417t" end="4275104167t" region="region0"><span style="style1">I just want my luggage back.</span></p>
+<p xml:id="subtitle132" begin="4327656667t" end="4357686667t" region="region0"><span style="style1">See that? Giorno failed.</span></p>
+<p xml:id="subtitle133" begin="4358520834t" end="4376872500t" region="region0"><span style="style1">He's half Japanese,</span></p>
+<p xml:id="subtitle134" begin="4377706667t" end="4404400000t" region="region0"><span style="style1">and he still tried</span><br/><span style="style1">tricking a Japanese tourist.</span></p>
+<p xml:id="subtitle135" begin="4405234167t" end="4437766667t" region="region0"><span style="style1">But with hair like that</span><br/><span style="style1">and a name like Giorno Giovanna,</span></p>
+<p xml:id="subtitle136" begin="4438600834t" end="4469882084t" region="region0"><span style="style1">no one would know he's Japanese.</span></p>
+<p xml:id="subtitle137" begin="4470716250t" end="4485314167t" region="region0"><span style="style1">Could it be…</span></p>
+<p xml:id="subtitle138" begin="4510756250t" end="4525771250t" region="region0"><span style="style1">What? It's gone!</span></p>
+<p xml:id="subtitle139" begin="4530776250t" end="4543705834t" region="region0"><span style="style1">How?</span></p>
+<p xml:id="subtitle140" begin="4568730834t" end="4587082500t" region="region0"><span style="style1">What is this egg thing?</span></p>
+<p xml:id="subtitle141" begin="4653815834t" end="4670499167t" region="region0"><span style="style1">A Stand?</span></p>
+<p xml:id="subtitle142" begin="4671333334t" end="4698860834t" region="region0"><span style="style1">How is this possible?</span><br/><span style="style1">In Italy of all places?</span></p>
+<p xml:id="subtitle143" begin="4733478750t" end="4781026250t" region="region0"><span style="style1">It's not a Stand!</span><br/><span style="style1">It feels like a real living creature!</span></p>
+<p xml:id="subtitle144" begin="4781860417t" end="4809805000t" region="region0"><span style="style1">And why is my suitcase not here?</span></p>
+<p xml:id="subtitle145" begin="4810639167t" end="4829825000t" region="region0"><span style="style1">He didn't even have time to hide it.</span></p>
+<p xml:id="subtitle146" begin="4830659167t" end="4852764584t" region="region0"><span style="style1">This is terrible.</span></p>
+<p xml:id="subtitle147" begin="4879457917t" end="4893638750t" region="region0"><span style="style1">I don't think it's true, but…</span></p>
+<p xml:id="subtitle148" begin="4899477917t" end="4910739167t" region="region0"><span style="style1">Excuse me!</span></p>
+<p xml:id="subtitle149" begin="4919080834t" end="4948693750t" region="region0"><span style="style1">About the taxi driver just now…</span></p>
+<p xml:id="subtitle150" begin="4984980000t" end="5002080417t" region="region0"><span style="style1">He should notice about now.</span></p>
+<p xml:id="subtitle151" begin="5064642917t" end="5091753334t" region="region0"><span style="style1">Giorno Giovanna, right?</span></p>
+<p xml:id="subtitle152" begin="5141803334t" end="5163074584t" region="region0"><span style="style1">This is the first time we've spoken.</span></p>
+<p xml:id="subtitle153" begin="5163908750t" end="5190185000t" region="region0"><span style="style1">Giorno, do you know who I am?</span></p>
+<p xml:id="subtitle154" begin="5196858334t" end="5216044167t" region="region0"><span style="style1">Leaky Eye Luca.</span></p>
+<p xml:id="subtitle155" begin="5216878334t" end="5230642084t" region="region0"><span style="style1">I heard you got into a fight,</span></p>
+<p xml:id="subtitle156" begin="5231476250t" end="5277355417t" region="region0"><span style="style1">and despite being stabbed deeply</span><br/><span style="style1">in the face, you wouldn't stop fighting.</span></p>
+<p xml:id="subtitle157" begin="5283194584t" end="5299043750t" region="region0"><span style="style1">Because of that,</span></p>
+<p xml:id="subtitle158" begin="5299877917t" end="5333244584t" region="region0"><span style="style1">your eyes always produce tears</span><br/><span style="style1">even though the wound has healed.</span></p>
+<p xml:id="subtitle159" begin="5356601250t" end="5385380000t" region="region0"><span style="style1">Come sit beside me for a moment.</span></p>
+<p xml:id="subtitle160" begin="5405817084t" end="5447108334t" region="region0"><span style="style1">Just sit. I don't want to strain my neck</span><br/><span style="style1">looking up at you.</span></p>
+<p xml:id="subtitle161" begin="5465460000t" end="5484228750t" region="region0"><span style="style1">How old are you?</span></p>
+<p xml:id="subtitle162" begin="5489233750t" end="5500077917t" region="region0"><span style="style1">I'm 15.</span></p>
+<p xml:id="subtitle163" begin="5500912084t" end="5511756250t" region="region0"><span style="style1">Fifteen?</span></p>
+<p xml:id="subtitle164" begin="5524268750t" end="5539283750t" region="region0"><span style="style1">You're a young one.</span></p>
+<p xml:id="subtitle165" begin="5540117917t" end="5555132917t" region="region0"><span style="style1">Hey, Giorno.</span></p>
+<p xml:id="subtitle166" begin="5555967084t" end="5598092500t" region="region0"><span style="style1">To create a good friendship,</span><br/><span style="style1">you've got to follow the three noes.</span></p>
+<p xml:id="subtitle167" begin="5598926667t" end="5610605000t" region="region0"><span style="style1">The three noes.</span></p>
+<p xml:id="subtitle168" begin="5616444167t" end="5644388750t" region="region0"><span style="style1">The first is no lying.</span></p>
+<p xml:id="subtitle169" begin="5645222917t" end="5664408750t" region="region0"><span style="style1">The second is no resentment.</span></p>
+<p xml:id="subtitle170" begin="5665242917t" end="5692770417t" region="region0"><span style="style1">The third is no disrespect to your friend.</span></p>
+<p xml:id="subtitle171" begin="5693604584t" end="5705700000t" region="region0"><span style="style1">You understand?</span></p>
+<p xml:id="subtitle172" begin="5706534167t" end="5727805417t" region="region0"><span style="style1">Those are the three noes of friendship.</span></p>
+<p xml:id="subtitle173" begin="5733644584t" end="5746157084t" region="region0"><span style="style1">Do you have a point?</span></p>
+<p xml:id="subtitle174" begin="5750745000t" end="5777855417t" region="region0"><span style="style1">I'm the one talking now!</span></p>
+<p xml:id="subtitle175" begin="5778689584t" end="5805800000t" region="region0"><span style="style1">Who gave you permission to speak, asshole?</span></p>
+<p xml:id="subtitle176" begin="5806634167t" end="5845005834t" region="region0"><span style="style1">It seems you've been taking on</span><br/><span style="style1">part-time gigs around the airport.</span></p>
+<p xml:id="subtitle177" begin="5845840000t" end="5854181667t" region="region0"><span style="style1">Ain't that right?</span></p>
+<p xml:id="subtitle178" begin="5855015834t" end="5912990417t" region="region0"><span style="style1">I still haven't received the respect</span><br/><span style="style1">I should be getting from you.</span></p>
+<p xml:id="subtitle179" begin="5913824584t" end="5933427500t" region="region0"><span style="style1">So in that case,</span></p>
+<p xml:id="subtitle180" begin="5934261667t" end="5956367084t" region="region0"><span style="style1">we can't continue being friends.</span></p>
+<p xml:id="subtitle181" begin="5957201250t" end="5973467500t" region="region0"><span style="style1">Let me see your wallet.</span></p>
+<p xml:id="subtitle182" begin="5974301667t" end="5983060417t" region="region0"><span style="style1">Luca,</span></p>
+<p xml:id="subtitle183" begin="5988065417t" end="6023100417t" region="region0"><span style="style1">if you're looking for the protection fee,</span><br/><span style="style1">I paid it. I don't have money.</span></p>
+<p xml:id="subtitle184" begin="6023934584t" end="6042286250t" region="region0"><span style="style1">To security?</span></p>
+<p xml:id="subtitle185" begin="6043120417t" end="6079406667t" region="region0"><span style="style1">I've got nothing to do with them!</span></p>
+<p xml:id="subtitle186" begin="6086080000t" end="6114858750t" region="region0"><span style="style1">What the hell is this? A family picture?</span></p>
+<p xml:id="subtitle187" begin="6120697917t" end="6143637500t" region="region0"><span style="style1">Where's the money?</span></p>
+<p xml:id="subtitle188" begin="6144471667t" end="6164491667t" region="region0"><span style="style1">-Take out your wallet.</span><br/><span style="style1">-Luca.</span></p>
+<p xml:id="subtitle189" begin="6170330834t" end="6197858334t" region="region0"><span style="style1">Please don't make me repeat myself.</span></p>
+<p xml:id="subtitle190" begin="6198692500t" end="6229973750t" region="region0"><span style="style1">I told you I don't have money</span><br/><span style="style1">because I paid already.</span></p>
+<p xml:id="subtitle191" begin="6240817917t" end="6261255000t" region="region0"><span style="style1">Please don't make me say it a third time.</span></p>
+<p xml:id="subtitle192" begin="6309636667t" end="6328405417t" region="region0"><span style="style1">You brat!</span></p>
+<p xml:id="subtitle193" begin="6343837500t" end="6364274584t" region="region0"><span style="style1">What is that creature?</span></p>
+<p xml:id="subtitle194" begin="6376787084t" end="6388048334t" region="region0"><span style="style1">It came back.</span></p>
+<p xml:id="subtitle195" begin="6388882500t" end="6399309584t" region="region0"><span style="style1">Knock it down!</span></p>
+<p xml:id="subtitle196" begin="6405982917t" end="6442686250t" region="region0"><span style="style1">This frog has nothing to do with this.</span><br/><span style="style1">There's no reason for me to hit it.</span></p>
+<p xml:id="subtitle197" begin="6443520417t" end="6470630834t" region="region0"><span style="style1">I gave you an order.</span></p>
+<p xml:id="subtitle198" begin="6471465000t" end="6491067917t" region="region0"><span style="style1">I said pay the protection fee too.</span></p>
+<p xml:id="subtitle199" begin="6491902084t" end="6519012500t" region="region0"><span style="style1">You dare defy me?</span></p>
+<p xml:id="subtitle200" begin="6519846667t" end="6563223334t" region="region0"><span style="style1">You're saying no to both</span><br/><span style="style1">to Leaky Eye Luca?</span></p>
+<p xml:id="subtitle201" begin="6564057500t" end="6594087500t" region="region0"><span style="style1">This is a living creature</span><br/><span style="style1">moving on its own will.</span></p>
+<p xml:id="subtitle202" begin="6594921667t" end="6612022084t" region="region0"><span style="style1">It thinks for itself.</span></p>
+<p xml:id="subtitle203" begin="6617861250t" end="6629122500t" region="region0"><span style="style1">You should stop this.</span></p>
+<p xml:id="subtitle204" begin="6629956667t" end="6681257917t" region="region0"><span style="style1">-I can't knock it off me.</span><br/><span style="style1">-You're done…</span></p>
+<p xml:id="subtitle205" begin="6682092084t" end="6702946250t" region="region0"><span style="style1">Stop! It's an innocent creature!</span></p>
+<p xml:id="subtitle206" begin="6703780417t" end="6730890834t" region="region0"><span style="style1">You're done for!</span></p>
+<p xml:id="subtitle207" begin="6805131667t" end="6823483334t" region="region0"><span style="style1">I told you to stop.</span></p>
+<p xml:id="subtitle208" begin="6828488334t" end="6863940417t" region="region0"><span style="style1">This creature isn't that loyal to me.</span></p>
+<p xml:id="subtitle209" begin="6864774584t" end="6902312084t" region="region0"><span style="style1">It's only trying to protect itself.</span></p>
+<p xml:id="subtitle210" begin="6903146250t" end="6922332084t" region="region0"><span style="style1">It has its own life.</span></p>
+<p xml:id="subtitle211" begin="6977387084t" end="6994487500t" region="region0"><span style="style1">The attack against the frog</span></p>
+<p xml:id="subtitle212" begin="7000326667t" end="7026602917t" region="region0"><span style="style1">became an attack against yourself,</span></p>
+<p xml:id="subtitle213" begin="7027437084t" end="7044954584t" region="region0"><span style="style1">and it was deadly.</span></p>
+<p xml:id="subtitle214" begin="7051627917t" end="7064974584t" region="region0"><span style="style1">And</span></p>
+<p xml:id="subtitle215" begin="7070813750t" end="7104597500t" region="region0"><span style="style1">I believe I asked you</span><br/><span style="style1">not to make me say it a third time.</span></p>
+<p xml:id="subtitle216" begin="7111270834t" end="7132542084t" region="region0"><span style="style1">Making me say it over and over again</span></p>
+<p xml:id="subtitle217" begin="7140883750t" end="7155898750t" region="region0"><span style="style1">is pointless.</span></p>
+<p xml:id="subtitle218" begin="7156732917t" end="7172165000t" region="region0"><span style="style1">I hate it because it's pointless.</span></p>
+<p xml:id="subtitle219" begin="7180506667t" end="7192185000t" region="region0"><span style="style1">Completely pointless.</span></p>
+<p xml:id="subtitle220" begin="7255164584t" end="7291867917t" region="region0"><span style="style1">-You want part of this young man's skin?</span><br/><span style="style1">-Yes.</span></p>
+<p xml:id="subtitle221" begin="7292702084t" end="7318144167t" region="region0"><span style="style1">I'd like you to harvest it, Koichi.</span></p>
+<p xml:id="subtitle222" begin="7325234584t" end="7359852500t" region="region0"><span style="style1">I'm having the Speedwagon Foundation</span><br/><span style="style1">examine the constitution of it.</span></p>
+<p xml:id="subtitle223" begin="7360686667t" end="7371947917t" region="region0"><span style="style1">The constitution?</span></p>
+<p xml:id="subtitle224" begin="7372782084t" end="7384460417t" region="region0"><span style="style1">Just who is he?</span></p>
+<p xml:id="subtitle225" begin="7385294584t" end="7414490417t" region="region0"><span style="style1">His deceased father was a bit special.</span></p>
+<p xml:id="subtitle226" begin="7419912500t" end="7432425000t" region="region0"><span style="style1">I'm researching that.</span></p>
+<p xml:id="subtitle227" begin="7438264167t" end="7469128334t" region="region0"><span style="style1">Even the smallest sliver is fine.</span><br/><span style="style1">Just get me something.</span></p>
+<p xml:id="subtitle228" begin="7469962500t" end="7482892084t" region="region0"><span style="style1">That is all.</span></p>
+<p xml:id="subtitle229" begin="7488314167t" end="7496655834t" region="region0"><span style="style1">Okay.</span></p>
+<p xml:id="subtitle230" begin="7497490000t" end="7520846667t" region="region0"><span style="style1">I will cover all your travel expenses.</span></p>
+<p xml:id="subtitle231" begin="7521680834t" end="7538781250t" region="region0"><span style="style1">All of them?</span></p>
+<p xml:id="subtitle232" begin="7573816250t" end="7596338750t" region="region0"><span style="style1">I don't mean to be rude,</span></p>
+<p xml:id="subtitle233" begin="7597172917t" end="7625117500t" region="region0"><span style="style1">but he reminds me a little of you, Jotaro.</span></p>
+<p xml:id="subtitle234" begin="7657232917t" end="7672665000t" region="region0"><span style="style1">The address on the photo</span></p>
+<p xml:id="subtitle235" begin="7673499167t" end="7695187500t" region="region0"><span style="style1">should be around here.</span></p>
+<p xml:id="subtitle236" begin="7707282917t" end="7722297917t" region="region0"><span style="style1">That's careless.</span></p>
+<p xml:id="subtitle237" begin="7723132084t" end="7740232500t" region="region0"><span style="style1">No need to worry.</span></p>
+<p xml:id="subtitle238" begin="7749408334t" end="7794036250t" region="region0"><span style="style1">There's no one in this neighborhood</span><br/><span style="style1">foolish enough to steal from those men.</span></p>
+<p xml:id="subtitle239" begin="7799875417t" end="7835744584t" region="region0"><span style="style1">Wow, this must be a safe area.</span></p>
+<p xml:id="subtitle240" begin="7859935417t" end="7890799584t" region="region0"><span style="style1">-May I sit next to you?</span><br/><span style="style1">-Would you like to stop in for a bite?</span></p>
+<p xml:id="subtitle241" begin="7891633750t" end="7907482917t" region="region0"><span style="style1">-I want to sit there.</span><br/><span style="style1">-No, I'm fine!</span></p>
+<p xml:id="subtitle242" begin="7908317084t" end="7932507917t" region="region0"><span style="style1">Giorno, come have tea with me.</span></p>
+<p xml:id="subtitle243" begin="7933342084t" end="7950859584t" region="region0"><span style="style1">-I'll pay for you!</span><br/><span style="style1">-Ladies, please.</span></p>
+<p xml:id="subtitle244" begin="7951693750t" end="7975884584t" region="region0"><span style="style1">There's only one girl I like. Move along.</span></p>
+<p xml:id="subtitle245" begin="7976718750t" end="7991733750t" region="region0"><span style="style1">-Okay.</span><br/><span style="style1">-Okay.</span></p>
+<p xml:id="subtitle246" begin="7992567917t" end="8009251250t" region="region0"><span style="style1">See you tomorrow, Giorno.</span></p>
+<p xml:id="subtitle247" begin="8010085417t" end="8022180834t" region="region0"><span style="style2">-Ciao!</span><br/><span style="style2">-Ciao!</span></p>
+<p xml:id="subtitle248" begin="8032607917t" end="8047622917t" region="region0"><span style="style1">It's him!</span></p>
+<p xml:id="subtitle249" begin="8085160417t" end="8108934167t" region="region0"><span style="style1">Whose money is that?</span></p>
+<p xml:id="subtitle250" begin="8109768334t" end="8118110000t" region="region0"><span style="style1">You're using it?</span></p>
+<p xml:id="subtitle251" begin="8118944167t" end="8138547084t" region="region0"><span style="style1">You! How did you find me?</span></p>
+<p xml:id="subtitle252" begin="8139381250t" end="8173999167t" region="region0"><span style="style1">Give me back my passport!</span><br/><span style="style1">Where is my luggage!</span></p>
+<p xml:id="subtitle253" begin="8174833334t" end="8197355834t" region="region0"><span style="style1">I really feel bad about this,</span></p>
+<p xml:id="subtitle254" begin="8198190000t" end="8219044167t" region="region0"><span style="style1">but I don't have it anymore. I sold it.</span></p>
+<p xml:id="subtitle255" begin="8219878334t" end="8231139584t" region="region0"><span style="style1">Sorry about that,</span></p>
+<p xml:id="subtitle256" begin="8238647084t" end="8256581667t" region="region0"><span style="style1">but don't follow me anymore.</span></p>
+<p xml:id="subtitle257" begin="8271596667t" end="8288280000t" region="region0"><span style="style1">I'm not letting you get away.</span></p>
+<p xml:id="subtitle258" begin="8289114167t" end="8306214584t" region="region0"><span style="style1">Why does my hand feel so heavy?</span></p>
+<p xml:id="subtitle259" begin="8314973334t" end="8347088750t" region="region0"><span style="style1">Could it be</span><br/><span style="style1">that the car didn't break down?</span></p>
+<p xml:id="subtitle260" begin="8347922917t" end="8386711667t" region="region0"><span style="style1">Could he possibly have</span><br/><span style="style1">the same kind of ability that I do?</span></p>
+<p xml:id="subtitle261" begin="8393802084t" end="8405897500t" region="region0"><span style="style1">What did you just say?</span></p>
+<p xml:id="subtitle262" begin="8406731667t" end="8419661250t" region="region0"><span style="style1">It's heavy!</span></p>
+<p xml:id="subtitle263" begin="8436344584t" end="8455530417t" region="region0"><span style="style1">Golden Wind!</span></p>
+<p xml:id="subtitle264" begin="8494319167t" end="8511419584t" region="region0"><span style="style1">Born life.</span></p>
+<p xml:id="subtitle265" begin="8518510000t" end="8535193334t" region="region0"><span style="style1">A new life.</span></p>
+<p xml:id="subtitle266" begin="8558550000t" end="8574399167t" region="region0"><span style="style1">I saw something briefly.</span></p>
+<p xml:id="subtitle267" begin="8575233334t" end="8589414167t" region="region0"><span style="style1">ACT3!</span></p>
+<p xml:id="subtitle268" begin="8622363750t" end="8635293334t" region="region0"><span style="style1">He has vanished.</span></p>
+<p xml:id="subtitle269" begin="8636127500t" end="8646137500t" region="region0"><span style="style1">Inconceivable!</span></p>
+<p xml:id="subtitle270" begin="8646971667t" end="8682006667t" region="region0"><span style="style1">He shouldn't be able</span><br/><span style="style1">to get out of 3 Freeze so easily.</span></p>
+<p xml:id="subtitle271" begin="8722463750t" end="8758332917t" region="region0"><span style="style1">I'll say it again.</span><br/><span style="style1">Don't even think about pursuing me.</span></p>
+<p xml:id="subtitle272" begin="8764172084t" end="8797121667t" region="region0"><span style="style1">I typically hate repeating myself</span></p>
+<p xml:id="subtitle273" begin="8802960834t" end="8836744584t" region="region0"><span style="style1">because it's pointless</span><br/><span style="style1">to say things twice.</span></p>
+<p xml:id="subtitle274" begin="8837578750t" end="8857598750t" region="region0"><span style="style1">I'll say this for your sake,</span></p>
+<p xml:id="subtitle275" begin="8858432917t" end="8878870000t" region="region0"><span style="style1">but you shouldn't do pointless things.</span></p>
+<p xml:id="subtitle276" begin="8889297084t" end="8913487917t" region="region0"><span style="style1">Take him down, ACT3!</span></p>
+<p xml:id="subtitle277" begin="8956447500t" end="8991065417t" region="region0"><span style="style1">The attack on the tree came back to me.</span></p>
+<p xml:id="subtitle278" begin="8996487500t" end="9018175834t" region="region0"><span style="style1">I've taken your things.</span></p>
+<p xml:id="subtitle279" begin="9031939584t" end="9091999584t" region="region0"><span style="style1">Yet based on how easy you went on me</span><br/><span style="style1">and the damage you sustained,</span></p>
+<p xml:id="subtitle280" begin="9097838750t" end="9114105000t" region="region0"><span style="style1">I can tell you're a decent person.</span></p>
+<p xml:id="subtitle281" begin="9142466667t" end="9161235417t" region="region0"><span style="style1">There is no doubt in my mind.</span></p>
+<p xml:id="subtitle282" begin="9162069584t" end="9178752917t" region="region0"><span style="style1">That's Giorno Giovanna.</span></p>
+<p xml:id="subtitle283" begin="9183757917t" end="9212953750t" region="region0"><span style="style1">He's a Stand User!</span></p>
+<p xml:id="subtitle284" begin="9380621250t" end="9388962917t" region="region0"><span style="style1">Hello?</span></p>
+<p xml:id="subtitle285" begin="9389797084t" end="9409400000t" region="region0"><span style="style2">Jotaro! It's me, Koichi!</span></p>
+<p xml:id="subtitle286" begin="9410234167t" end="9420244167t" region="region0"><span style="style1">Oh, Koichi.</span></p>
+<p xml:id="subtitle287" begin="9425249167t" end="9443183750t" region="region0"><span style="style1">You made it to Italy safely?</span></p>
+<p xml:id="subtitle288" begin="9444017917t" end="9453610834t" region="region0"><span style="style2">I found him!</span></p>
+<p xml:id="subtitle289" begin="9454445000t" end="9483223750t" region="region0"><span style="style2">The one you sent me to find.</span><br/><span style="style2">Haruno Shiobana!</span></p>
+<p xml:id="subtitle290" begin="9488228750t" end="9501992500t" region="region0"><span style="style1">That was quick.</span></p>
+<p xml:id="subtitle291" begin="9502826667t" end="9522846667t" region="region0"><span style="style1">How do you suggest I talk to him?</span></p>
+<p xml:id="subtitle292" begin="9528685834t" end="9549957084t" region="region0"><span style="style1">I ran into him at the airport.</span></p>
+<p xml:id="subtitle293" begin="9550791250t" end="9583740834t" region="region0"><span style="style1">Yes, let me tell you what I've found out.</span></p>
+<p xml:id="subtitle294" begin="9584575000t" end="9603343750t" region="region0"><span style="style1">He's a Stand User!</span></p>
+<p xml:id="subtitle295" begin="9609182917t" end="9635459167t" region="region0"><span style="style2">Here in Italy,</span><br/><span style="style2">he goes by the name Giorno Giovanna.</span></p>
+<p xml:id="subtitle296" begin="9636293334t" end="9653810834t" region="region0"><span style="style2">You said so, right, Jotaro?</span></p>
+<p xml:id="subtitle297" begin="9654645000t" end="9680921250t" region="region0"><span style="style2">How Stand Users</span><br/><span style="style2">are somehow drawn to one another.</span></p>
+<p xml:id="subtitle298" begin="9681755417t" end="9709700000t" region="region0"><span style="style1">Meeting him was a real coincidence.</span></p>
+<p xml:id="subtitle299" begin="9710534167t" end="9737644584t" region="region0"><span style="style1">He's only a student,</span><br/><span style="style1">but he's involved in some shady things.</span></p>
+<p xml:id="subtitle300" begin="9738478750t" end="9763920834t" region="region0"><span style="style1">He swiped my money and my luggage.</span></p>
+<p xml:id="subtitle301" begin="9764755000t" end="9819810000t" region="region0"><span style="style2">Also, his Stand may have the ability</span><br/><span style="style2">to return an enemy's very own attack back.</span></p>
+<p xml:id="subtitle302" begin="9820644167t" end="9831488334t" region="region0"><span style="style1">I'm sorry about that.</span></p>
+<p xml:id="subtitle303" begin="9836493334t" end="9865272084t" region="region0"><span style="style1">I'll get you a hotel right away</span><br/><span style="style1">and wire you some money.</span></p>
+<p xml:id="subtitle304" begin="9866106250t" end="9879452917t" region="region0"><span style="style2">Thank you.</span></p>
+<p xml:id="subtitle305" begin="9880287084t" end="9906980417t" region="region0"><span style="style2">Also, unlike in the photo,</span><br/><span style="style2">he's got blonde hair.</span></p>
+<p xml:id="subtitle306" begin="9907814584t" end="9946603334t" region="region0"><span style="style2">An acquaintance of his told me</span><br/><span style="style2">that he didn't dye it.</span></p>
+<p xml:id="subtitle307" begin="9947437500t" end="9969542917t" region="region0"><span style="style2">It just suddenly changed recently.</span></p>
+<p xml:id="subtitle308" begin="9974547917t" end="9995402084t" region="region0"><span style="style2">That he inherited it</span><br/><span style="style2">from his deceased father.</span></p>
+<p xml:id="subtitle309" begin="10000407084t" end="10017507500t" region="region0"><span style="style2">Who is his father?</span></p>
+<p xml:id="subtitle310" begin="10027100417t" end="10054627917t" region="region0"><span style="style2">Were you connected to him somehow?</span></p>
+<p xml:id="subtitle311" begin="10101758334t" end="10114687917t" region="region0"><span style="style1">I killed</span></p>
+<p xml:id="subtitle312" begin="10119692917t" end="10135959167t" region="region0"><span style="style1">his father.</span></p>
+<p xml:id="subtitle313" begin="10148054584t" end="10171411250t" region="region0"><span style="style1">His name was DIO.</span></p>
+<p xml:id="subtitle314" begin="10176833334t" end="10191848334t" region="region0"><span style="style1">DIO?</span></p>
+<p xml:id="subtitle315" begin="10192682500t" end="10217707500t" region="region0"><span style="style2">You mean the DIO with the bow and arrow?</span></p>
+<p xml:id="subtitle316" begin="10218541667t" end="10239395834t" region="region0"><span style="style1">I found out this year</span></p>
+<p xml:id="subtitle317" begin="10240230000t" end="10263586667t" region="region0"><span style="style1">about the possibility</span><br/><span style="style1">that DIO had a child.</span></p>
+<p xml:id="subtitle318" begin="10264420834t" end="10284857917t" region="region0"><span style="style1">That's why I wanted to confirm</span></p>
+<p xml:id="subtitle319" begin="10285692084t" end="10314470834t" region="region0"><span style="style1">whether Giorno Giovanna</span><br/><span style="style1">was really DIO's son,</span></p>
+<p xml:id="subtitle320" begin="10319475834t" end="10351591250t" region="region0"><span style="style1">and if he had inherited his father's body.</span></p>
+<p xml:id="subtitle321" begin="10352425417t" end="10386626250t" region="region0"><span style="style2">But if I recall correctly,</span><br/><span style="style2">DIO's body had Joestar blood in it.</span></p>
+<p xml:id="subtitle322" begin="10387460417t" end="10425832084t" region="region0"><span style="style1">If his hair is blonde,</span><br/><span style="style1">then that's DIO's bloodline.</span></p>
+<p xml:id="subtitle323" begin="10426666250t" end="10467540417t" region="region0"><span style="style1">It may be a sign that his Stand abilities</span><br/><span style="style1">were awakened recently.</span></p>
+<p xml:id="subtitle324" begin="10468374584t" end="10492148334t" region="region0"><span style="style2">There must have been a catalyst.</span><br/><span style="style2">For example,</span></p>
+<p xml:id="subtitle325" begin="10492982500t" end="10530520000t" region="region0"><span style="style2">it may be an effect of another</span><br/><span style="style2">strong Stand User being in his proximity.</span></p>
+<p xml:id="subtitle326" begin="10531354167t" end="10557213334t" region="region0"><span style="style2">A strong Stand User?</span></p>
+<p xml:id="subtitle327" begin="10558047500t" end="10572645417t" region="region0"><span style="style2">Do not go near him.</span></p>
+<p xml:id="subtitle328" begin="10577650417t" end="10592248334t" region="region0"><span style="style2">It's much too risky.</span></p>
+<p xml:id="subtitle329" begin="10599338750t" end="10608931667t" region="region0"><span style="style2">Do you understand?</span></p>
+<p xml:id="subtitle330" begin="10634790834t" end="10649805834t" region="region0"><span style="style2">I have one last question.</span></p>
+<p xml:id="subtitle331" begin="10655645000t" end="10673162500t" region="region0"><span style="style1">Is he an enemy?</span></p>
+<p xml:id="subtitle332" begin="10673996667t" end="10696936250t" region="region0"><span style="style1">Or is he a friend?</span></p>
+<p xml:id="subtitle333" begin="10707363334t" end="10719875834t" region="region0"><span style="style1">What do you think?</span></p>
+<p xml:id="subtitle334" begin="10726132084t" end="10740312917t" region="region0"><span style="style1">Only you have met him.</span></p>
+<p xml:id="subtitle335" begin="10741147084t" end="10758664584t" region="region0"><span style="style2">How do you perceive him?</span></p>
+<p xml:id="subtitle336" begin="10798287500t" end="10836659167t" region="region0"><span style="style2">I'm not sure.</span><span style="style1"> </span><span style="style2">But somehow, he seemed</span></p>
+<p xml:id="subtitle337" begin="10847503334t" end="10865855000t" region="region0"><span style="style2">gentle.</span></p>
+<p xml:id="subtitle338" begin="11035190834t" end="11047286250t" region="region0"><span style="style1">Is this yours?</span></p>
+<p xml:id="subtitle339" begin="11048120417t" end="11058130417t" region="region0"><span style="style1">No.</span></p>
+<p xml:id="subtitle340" begin="11063135417t" end="11077733334t" region="region0"><span style="style1">Really? I see.</span></p>
+<p xml:id="subtitle341" begin="11082738334t" end="11100255834t" region="region0"><span style="style1">I guess I'm a bit richer now.</span></p>
+<p xml:id="subtitle342" begin="11122361250t" end="11180752917t" region="region0"><span style="style1">If someone's bag were to drop here</span><br/><span style="style1">with one billion lire inside,</span></p>
+<p xml:id="subtitle343" begin="11181587084t" end="11193682500t" region="region0"><span style="style1">would you give it back?</span></p>
+<p xml:id="subtitle344" begin="11202441250t" end="11227049167t" region="region0"><span style="style1">Of course not. I'd take it.</span></p>
+<p xml:id="subtitle345" begin="11239978750t" end="11255410834t" region="region0"><span style="style1">That's honest of you.</span></p>
+<p xml:id="subtitle346" begin="11256245000t" end="11298370417t" region="region0"><span style="style1">What if I were a plainclothes</span><br/><span style="style1">police officer and I saw you take it?</span></p>
+<p xml:id="subtitle347" begin="11316305000t" end="11363852500t" region="region0"><span style="style1">Then I'd split the money with you</span><br/><span style="style1">and have you look the other way.</span></p>
+<p xml:id="subtitle348" begin="11401807084t" end="11416405000t" region="region0"><span style="style1">What a terrific response.</span></p>
+<p xml:id="subtitle349" begin="11417239167t" end="11444349584t" region="region0"><span style="style1">You're serious about it.</span></p>
+<p xml:id="subtitle350" begin="11445183750t" end="11463952500t" region="region0"><span style="style1">No joking or bluffing here.</span></p>
+<p xml:id="subtitle351" begin="11464786667t" end="11474796667t" region="region0"><span style="style1">I can tell.</span></p>
+<p xml:id="subtitle352" begin="11475630834t" end="11498987500t" region="region0"><span style="style1">You truly speak your mind.</span></p>
+<p xml:id="subtitle353" begin="11499821667t" end="11546117917t" region="region0"><span style="style1">I can tell whether a person</span><br/><span style="style1">is telling the truth,</span></p>
+<p xml:id="subtitle354" begin="11546952084t" end="11569057500t" region="region0"><span style="style1">and I am rarely wrong.</span></p>
+<p xml:id="subtitle355" begin="11569891667t" end="11598670417t" region="region0"><span style="style1">You know how your skin gets shiny</span><br/><span style="style1">when covered with sweat?</span></p>
+<p xml:id="subtitle356" begin="11599504584t" end="11617856250t" region="region0"><span style="style1">That's how I can tell.</span></p>
+<p xml:id="subtitle357" begin="11618690417t" end="11662484167t" region="region0"><span style="style1">But I'll have an even better idea</span><br/><span style="style1">if I get a taste of your sweat.</span></p>
+<p xml:id="subtitle358" begin="11682087084t" end="11702107084t" region="region0"><span style="style1">Who are you?</span></p>
+<p xml:id="subtitle359" begin="11715870834t" end="11752991250t" region="region0"><span style="style1">Leaky Eye Luca was found</span><br/><span style="style1">hunched over outside the airport</span></p>
+<p xml:id="subtitle360" begin="11753825417t" end="11778016250t" region="region0"><span style="style1">with his head bashed in by his own shovel.</span></p>
+<p xml:id="subtitle361" begin="11778850417t" end="11810131667t" region="region0"><span style="style1">He was hurt badly</span><br/><span style="style1">and won't be regaining consciousness.</span></p>
+<p xml:id="subtitle362" begin="11810965834t" end="11833071250t" region="region0"><span style="style1">I'm searching for the man who did that.</span></p>
+<p xml:id="subtitle363" begin="11838493334t" end="11853091250t" region="region0"><span style="style1">Giorno Giovanna,</span></p>
+<p xml:id="subtitle364" begin="11853925417t" end="11894799584t" region="region0"><span style="style1">no one knows why</span><br/><span style="style1">Leaky Eye Luca was at the airport.</span></p>
+<p xml:id="subtitle365" begin="11895633750t" end="11906477917t" region="region0"><span style="style1">However,</span></p>
+<p xml:id="subtitle366" begin="11911482917t" end="11963618334t" region="region0"><span style="style1">airport security informed me</span><br/><span style="style1">that you had been there.</span></p>
+<p xml:id="subtitle367" begin="11964452500t" end="12002407084t" region="region0"><span style="style1">Therefore, I've come to ask you myself.</span></p>
+<p xml:id="subtitle368" begin="12007829167t" end="12025346667t" region="region0"><span style="style1">Are you a police officer?</span></p>
+<p xml:id="subtitle369" begin="12026180834t" end="12039110417t" region="region0"><span style="style1">Of course not.</span></p>
+<p xml:id="subtitle370" begin="12047869167t" end="12072477084t" region="region0"><span style="style1">Luca was no street thug.</span></p>
+<p xml:id="subtitle371" begin="12073311250t" end="12084572500t" region="region0"><span style="style1">He was a gangster.</span></p>
+<p xml:id="subtitle372" begin="12085406667t" end="12105009584t" region="region0"><span style="style1">Plenty of others had a motive to kill him.</span></p>
+<p xml:id="subtitle373" begin="12105843750t" end="12135456667t" region="region0"><span style="style1">He knew how to get people</span><br/><span style="style1">to hold grudges against him.</span></p>
+<p xml:id="subtitle374" begin="12136290834t" end="12144632500t" region="region0"><span style="style1">However,</span></p>
+<p xml:id="subtitle375" begin="12145466667t" end="12179250417t" region="region0"><span style="style1">Luca's boss</span><br/><span style="style1">is not thinking of revenge for him.</span></p>
+<p xml:id="subtitle376" begin="12185506667t" end="12231385834t" region="region0"><span style="style1">Having one of his own killed</span><br/><span style="style1">is like having mud thrown in his face.</span></p>
+<p xml:id="subtitle377" begin="12232220000t" end="12277682084t" region="region0"><span style="style1">That's why the Boss asked me to find</span><br/><span style="style1">who did this to Luca and put an end to it.</span></p>
+<p xml:id="subtitle378" begin="12278516250t" end="12297702084t" region="region0"><span style="style1">I have a question for you.</span></p>
+<p xml:id="subtitle379" begin="12303124167t" end="12341078750t" region="region0"><span style="style1">Did you not meet Leaky Eye Luca</span><br/><span style="style1">at the airport?</span></p>
+<p xml:id="subtitle380" begin="12347335000t" end="12365686667t" region="region0"><span style="style1">I did not.</span></p>
+<p xml:id="subtitle381" begin="12478716250t" end="12497485000t" region="region0"><span style="style1">You're not sweating.</span></p>
+<p xml:id="subtitle382" begin="12503741250t" end="12520007500t" region="region0"><span style="style1">All right. I believe you.</span></p>
+<p xml:id="subtitle383" begin="12531685834t" end="12547117917t" region="region0"><span style="style1">Those are all the questions I have.</span></p>
+<p xml:id="subtitle384" begin="12552122917t" end="12575896667t" region="region0"><span style="style1">Sorry to bother you, Giorno Giovanna.</span></p>
+<p xml:id="subtitle385" begin="12702272917t" end="12718539167t" region="region0"><span style="style1">What the hell was that?</span></p>
+<p xml:id="subtitle386" begin="12726046667t" end="12740644584t" region="region0"><span style="style1">My hand was closed.</span></p>
+<p xml:id="subtitle387" begin="12741478750t" end="12757327917t" region="region0"><span style="style1">It's Luca's right eye.</span></p>
+<p xml:id="subtitle388" begin="12758162084t" end="12794448334t" region="region0"><span style="style1">He's unconscious either way,</span><br/><span style="style1">so I took it with me.</span></p>
+<p xml:id="subtitle389" begin="12815302500t" end="12851588750t" region="region0"><span style="style1">The taste of your sweat</span><br/><span style="style1">is the taste of a lie.</span></p>
+<p xml:id="subtitle390" begin="12852422917t" end="12866186667t" region="region0"><span style="style1">Giorno Giovanna!</span></p>
+<p xml:id="subtitle391" begin="12887875000t" end="12908312084t" region="region0"><span style="style1">Oh dear.</span></p>
+<p xml:id="subtitle392" begin="12909146250t" end="12933337084t" region="region0"><span style="style1">I said I was done with my questions,</span></p>
+<p xml:id="subtitle393" begin="12934171250t" end="12955025417t" region="region1"><span style="style1">but it seems the situation has changed.</span></p>
+<p xml:id="subtitle394" begin="12960864584t" end="12976296667t" region="region1"><span style="style1">Giorno Giovanna.</span></p>
+<p xml:id="subtitle395" begin="12986306667t" end="13008412084t" region="region1"><span style="style1">You lied to me.</span></p>
+<p xml:id="subtitle396" begin="13009246250t" end="13074728334t" region="region1"><span style="style1">Now I'd have to find out</span><br/><span style="style1">why you lied to me, wouldn't I?</span></p>
+<p xml:id="subtitle397" begin="13102672917t" end="13119356250t" region="region1"><span style="style1">What are you looking at?</span></p>
+<p xml:id="subtitle398" begin="13120190417t" end="13133537084t" region="region1"><span style="style1">Jealous?</span></p>
+<p xml:id="subtitle399" begin="13134371250t" end="13155225417t" region="region1"><span style="style1">Would you like me to punch you too?</span></p>
+<p xml:id="subtitle400" begin="13172325834t" end="13194431250t" region="region0"><span style="style1">My name is Bruno Bucciarati.</span></p>
+<p xml:id="subtitle401" begin="13200270417t" end="13213200000t" region="region0"><span style="style1">Answer me.</span></p>
+<p xml:id="subtitle402" begin="13214034167t" end="13248652084t" region="region0"><span style="style1">Simple questioning</span><br/><span style="style1">has already turned into torture.</span></p>
+<p xml:id="subtitle403" begin="13293280000t" end="13322058750t" region="region0"><span style="style1">What do you think of my special ability?</span></p>
+<p xml:id="subtitle404" begin="13329566250t" end="13354591250t" region="region0"><span style="style1">-These are--</span><br/><span style="style1">-Those are Luca's fingers.</span></p>
+<p xml:id="subtitle405" begin="13360013334t" end="13375862500t" region="region0"><span style="style1">Let me tell you the truth.</span></p>
+<p xml:id="subtitle406" begin="13376696667t" end="13415902500t" region="region1"><span style="style1">My boss put an end to Leaky Eye Luca.</span></p>
+<p xml:id="subtitle407" begin="13416736667t" end="13442595834t" region="region1"><span style="style1">There was no point in keeping him alive.</span></p>
+<p xml:id="subtitle408" begin="13443430000t" end="13480133334t" region="region0"><span style="style1">-I took his fingers to torture you.</span><br/><span style="style2">-Not again. What did he do?</span></p>
+<p xml:id="subtitle409" begin="13480967500t" end="13520590417t" region="region0"><span style="style2">Is he also like that Japanese tourist?</span></p>
+<p xml:id="subtitle410" begin="13521424584t" end="13546032500t" region="region1"><span style="style1">Besides being able to tell</span><br/><span style="style1">whether someone's lying,</span></p>
+<p xml:id="subtitle411" begin="13546866667t" end="13564801250t" region="region1"><span style="style1">I can also do this.</span></p>
+<p xml:id="subtitle412" begin="13570223334t" end="13613600000t" region="region1"><span style="style1">I can put anything in your mouth.</span></p>
+<p xml:id="subtitle413" begin="13614434167t" end="13625278334t" region="region1"><span style="style1">For instance,</span></p>
+<p xml:id="subtitle414" begin="13626112500t" end="13663650000t" region="region1"><span style="style1">I can stuff that fire extinguisher</span><br/><span style="style1">in your mouth.</span></p>
+<p xml:id="subtitle415" begin="13670740417t" end="13708695000t" region="region1"><span style="style1">But if I did that, you'd die.</span></p>
+<p xml:id="subtitle416" begin="13753322917t" end="13762915834t" region="region0"><span style="style1">Talk!</span></p>
+<p xml:id="subtitle417" begin="13763750000t" end="13789192084t" region="region0"><span style="style1">You saw who did it.</span></p>
+<p xml:id="subtitle418" begin="13794197084t" end="13811714584t" region="region0"><span style="style1">Is someone keeping you quiet?</span></p>
+<p xml:id="subtitle419" begin="13812548750t" end="13849252084t" region="region0"><span style="style1">You're going to tell me</span><br/><span style="style1">who did that to Luca.</span></p>
+<p xml:id="subtitle420" begin="13868855000t" end="13904724167t" region="region0"><span style="style2">There's no doubt he has a similar ability.</span></p>
+<p xml:id="subtitle421" begin="13905558334t" end="13942678750t" region="region0"><span style="style1">If you don't talk soon,</span><br/><span style="style1">the torture will only get worse.</span></p>
+<p xml:id="subtitle422" begin="13943512917t" end="13961030417t" region="region0"><span style="style1">Giorno Giovanna!</span></p>
+<p xml:id="subtitle423" begin="14016085417t" end="14030266250t" region="region0"><span style="style2">This man is trouble!</span></p>
+<p xml:id="subtitle424" begin="14051537500t" end="14064050000t" region="region0"><span style="style2">In that case,</span></p>
+<p xml:id="subtitle425" begin="14081150417t" end="14129949167t" region="region1"><span style="style2">I'll have no choice but to use Golden Wind</span><br/><span style="style2">to dodge his attacks!</span></p>
+<p xml:id="subtitle426" begin="14164567084t" end="14204607084t" region="region0"><span style="style1">EPISODE 2: BUCCIARATI IS COMING</span></p>
+</div>
+</body>
+<script xmlns=""/></tt>
